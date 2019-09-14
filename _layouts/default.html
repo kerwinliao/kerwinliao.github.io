@@ -17,7 +17,7 @@
   <body>
 
       <header>
-        <h1>{{ page.title | default: Kerwin (Xiang) Liao  廖 翔 | default: Kerwin (Xiang) Liao  廖 翔 }}</h1>
+        <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
       </header>
 
@@ -27,9 +27,9 @@
         <a href="{{ https://kerwinliao.github.io/ }}" class="button fork"><strong>HOME</strong></a>
         {% if site.show_downloads %}
           <div class="downloads">
-            <span>Downloads:</span>
+            <span>My Articles: </span>
             <ul>
-              <li><a href="{{https://kerwinliao.github.io/blog.md  }}" class="button">BLOG</a></li>
+              <li><a href="{{ https://kerwinliao.github.io/blog.md  }}" class="button">BLOG</a></li>
               <li><a href="{{ https://kerwinliao.github.io/paper.md }}" class="button">PAPER</a></li>
             </ul>
           </div>
@@ -48,7 +48,7 @@
         {% if site.github.is_project_page %}
           <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></small></p>
+        <p><small>Hosted on GitHub Pages &mdash; Maintained by Kerwin &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></small></p>
       </footer>
     </div>
 
