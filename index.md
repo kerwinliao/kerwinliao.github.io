@@ -10,6 +10,7 @@ Welcome to Kerwin's personal website!
 
 /introduction/
 
+[Another Page](/blog.md)
 
 
 ### Career Planning

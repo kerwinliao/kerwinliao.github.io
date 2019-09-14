@@ -21,7 +21,20 @@
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
       </header>
 
+      <div id="banner">
+        <span id="logo"></span>
 
+        <a href="{{ https://kerwinliao.github.io/ }}" class="button fork"><strong>HOME</strong></a>
+        {% if site.show_downloads %}
+          <div class="downloads">
+            <span>My Articles: </span>
+            <ul>
+              <li><a href="{{ /blog.md  }}" class="button">BLOG</a></li>
+              <li><a href="{{ /paper.md }}" class="button">PAPER</a></li>
+            </ul>
+          </div>
+        {% endif %}
+      </div><!-- end banner -->
 
     <div class="wrapper">
       <nav>
