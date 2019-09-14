@@ -1,12 +1,15 @@
-## Welcome to Kerwin's Personal Website
+## Home
 
-You can use the [editor on GitHub](https://github.com/kerwinliao/kerwinliao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to Kerwin's personal website!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introduction
 
-[Link to another page](./another-page.html).
+![me](/me.jpg)
 
-### Markdown
+/introduction/
+
+
+### Career Planning
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -28,12 +31,23 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Curriculum Vitae
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kerwinliao/kerwinliao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For more details about my past experience, you can see my up-to-date [Curriculum Citae](/kerwinliao_cv.pdf). You can also check my [LinkedIn homepage](https://www.linkedin.com/in/kerwinlau/).
 
-### Support or Contact
+
+### My Idol
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+### My Hobbies
+
+Various hobbies are within my reach. 
+
+The most advanced skill is cooking. You can name any dishes that in a recipe and I can cook it to feast your stomach on amazing flavor.
+
+### Contact Me
+
+You can [email](mailto:xiangliao@link.cuhk.edu.cn) me if necessary.
