@@ -10,7 +10,6 @@ Welcome to Kerwin's personal website!
 
 /introduction/
 
-[Another Page](/blog.md)
 
 
 ### Career Planning
@@ -44,15 +43,17 @@ For more details about my past experience, you can see my up-to-date [Curriculum
 
 ### My Idol
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Philip : _Soulstealer_
 
 
 
 ### My Hobbies
 
-Various hobbies are within my reach. 
+Arts: Ukulili, Caligraphy, Cooking
 
-The most advanced skill is cooking. You can name any dishes that in a recipe and I can cook it to feast your stomach on amazing flavor.
+Sports: Tennis, Basketball, Running, Bicycling, Fitness
+
+
 
 
 

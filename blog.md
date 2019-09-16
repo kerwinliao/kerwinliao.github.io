@@ -1,9 +1,10 @@
----
-layout: default
----
+## Blogs
 
-## Welcome to another page
+- a
 
-_yay_
+- b
+
+- c
+
 
 [back](./)
