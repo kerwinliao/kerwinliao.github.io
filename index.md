@@ -49,14 +49,10 @@ Philip : _Soulstealer_
 
 ### My Hobbies
 
-Arts: Ukulili, Caligraphy, Cooking
-
-Sports: Tennis, Basketball, Running, Bicycling, Fitness
-
-
-
+- `Arts:` Ukulili, Caligraphy, Cooking
+- `Sports:` Tennis, Basketball, Running, Bicycling, Fitness
 
 
 ### Contact Me
 
-You can [email](mailto:xiangliao@link.cuhk.edu.cn) me if necessary.
+Do not hesitate to [contact](mailto:xiangliao@link.cuhk.edu.cn) me if you want to share some idea with me or just want to know me more :-)
