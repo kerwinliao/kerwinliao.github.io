@@ -1,4 +1,4 @@
-tes## Home
+## Home
 
 Welcome to Kerwin's personal website!
 
@@ -10,7 +10,6 @@ Welcome to Kerwin's personal website!
 
 /introduction/
 
-[video](/test.mp4)
 
 
 
