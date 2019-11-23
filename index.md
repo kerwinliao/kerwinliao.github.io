@@ -6,7 +6,7 @@ Welcome to Kerwin's personal website!
 
 ### Introduction
 
-![me](/me.jpg)
+![me](/me.png)
 
 /introduction/
 
