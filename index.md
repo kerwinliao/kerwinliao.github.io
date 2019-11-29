@@ -25,7 +25,7 @@ For more details about my past experience, you can see my up-to-date [Curriculum
 
 ### My Idol
 
-Philip A. Khun: _Soulstealer_
+Philip A. Kuhn: _Soulstealer_
 
 He finished this book in 14 years, during which many skepticism arose. However, his perseverance and down-to-earth spirit were not affected at all but his publication of this book substantiated his unique academic excellence in Chinese History and Politics.
 
