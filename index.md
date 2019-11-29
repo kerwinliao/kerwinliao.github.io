@@ -15,25 +15,6 @@ Welcome to Kerwin's personal website!
 
 ### Career Planning
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 
 ### Curriculum Vitae
@@ -60,4 +41,4 @@ He finished this book in 14 years, during which many skepticism arose. However, 
 
 ### Contact Me
 
-Do not hesitate to [contact](mailto:xiangliao@link.cuhk.edu.cn) me if you want to share some idea with me or just want to know me more :-)
+Do not hesitate to [contact](mailto:kerwin.p.lau@gmail.com) me if you want to share some idea with me or just want to know me more :-)
