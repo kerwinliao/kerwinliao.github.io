@@ -4,7 +4,6 @@ Below are my blogs that are in either English or Chinese. Most articles are writ
 
 ----------
 
-### English Blogs
 
 - Heterogeneous Products: Advance Triumphantly for the Business but Initiate Pandora’s Box for Social Instability?
 - Why Should Bachelors Given a Hard Time to Bachelors?
@@ -16,14 +15,7 @@ Below are my blogs that are in either English or Chinese. Most articles are writ
 
 
 
-----------
 
-### Chinese Blogs
-
-In addition to my English blogs, there are also some articles that I wrote in Chinese, though not many. Due to the more and more strict censorship in Mainland China, I would like to sacrifice the potential spread of my ideas with the safety of myself and my articles to list them below instead of publishing in WeChat Public Accounts.
-
-#### Topics
-- Coming Soon :-)
 
 
 [back](./)

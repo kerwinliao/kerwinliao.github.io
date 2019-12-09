@@ -6,7 +6,7 @@ Welcome to Kerwin's personal website!
 
 ### Introduction
 
-![me](/me.png)
+![me](/me.jpg)
 
 /introduction/
 
@@ -35,8 +35,10 @@ He finished this book in 14 years, during which many skepticism arose. However, 
 
 ### My Hobbies
 
-- `Arts:` Ukulili, Caligraphy, Cooking
-- `Sports:` Tennis, Basketball, Running, Bicycling, Fitness
+- `Arts:` Cuisine, Classical Music, Ukulele
+- `Sports:` CrossFit, Basketball, Tennis, Bicycling
+- `Readings:` Philosophy (Schopenhauer; Kant), Psychology (Carl Jung; Rolle May), Political Science & History (Philip Kuhn; Huntington)
+
 
 
 ### Contact Me
