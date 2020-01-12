@@ -8,12 +8,12 @@ Welcome to Kerwin's personal website!
 
 ![me](/me.jpg)
 
-/introduction/
+Kerwin is dedicated to research-related jobs with the focus on Fin Tech, Organization Theory, Bureaucracy and also Applied Microeconomics and Computational Social Science. He is a perfect combination of developer, data scientist, writer and social scientist, making him a potential researcher in the field of business. 
 
 
 
 
-### Career Planning
+
 
 
 
@@ -43,4 +43,4 @@ He finished this book in 14 years, during which many skepticism arose. However, 
 
 ### Contact Me
 
-Do not hesitate to [contact](mailto:kerwin.p.lau@gmail.com) me if you want to share some idea with me or just want to know me more :-)
+Do not hesitate to [contact](mailto:kerwin.p.lau@gmail.com) me if you have more questions or want to share with me about your ideas towards my papers :-)
