@@ -1,3 +1,55 @@
-theme: jekyll-theme-leap-day
-title: Xiang (Kerwin) Liao   廖 翔
-show_downloads: true
+# Basic
+title: Kerwin Xiang Liao | 廖翔
+subtitle: A Fastidious Maverick in Business Research
+welcome_message: '"Amid countless possibilities, find the path to the hope and make decisions with your own willpower."'
+description: Hi, I am currently a fourth-year doctoral student in International Business at University of South Carolina.
+creator: <a href="http://www.GcsSloop.com">@kliao</a>
+
+url: "http://kerwinliao.github.io/"
+
+permalink: /:categories/:title
+
+# Format
+highlighter: rouge
+markdown: kramdown
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", tables]
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: slate
+
+blog_button:
+    title: About Me
+    description: About me
+
+nav:
+    - {title: Research,         in_site: true,  description: research,  url: '/info/research'}
+    - {title: Teaching,         in_site: true,  description: teaching,  url: '/info/teaching'}
+    - {title: Curriculum Vitae, in_site: true,  description: cv,        url: '/kerwinliao_cv.pdf'}
+    - {title: Backgrounds,      in_site: true,  description: backgrounds,        url: '/info/background'}
+
+
+gems:
+    - jekyll-paginate
+    - jekyll-sitemap
+    - jekyll-redirect-from
+
+# Pagination
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    disqus: GcsSloop
+    # duoshuo:
+# Social
+
+social:
+    linkedin: in/kerwinlau
+    github: kerwinliao
+    mail: xiang.liao@grad.moore.sc.edu
+
+# Google Analytics
+ga:
+    id: UA-82493667-1
+    host: www.gcssloop.com
