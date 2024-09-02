@@ -9,6 +9,6 @@ redirect_from:
   - /1970/01/about/
 ---
 
-Hey, a Capricorn is working very hard right now. 
+Hey, this Capricorn is working very hard right now. 
 
 Would you mind getting back to the [homepage](https://kerwinliao.github.io) and come back later when you are available?
