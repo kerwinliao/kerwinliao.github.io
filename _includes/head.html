@@ -5,9 +5,8 @@
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="author" content="GcsSloop">
+  <meta name="author" content="Kerwin Liao">
   <meta name="keywords" content="{{page.keywords}}">
-  <meta name="关键字" content="{{page.keywords}}">
   
 
   <meta name="twitter:card" content="summary">
@@ -32,6 +31,6 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
   
   <!--阅读次数统计-->
-  <script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"> </script>
+  <script async src="https://busuanzi.9420.ltd/js"> </script>
 
 </head>
