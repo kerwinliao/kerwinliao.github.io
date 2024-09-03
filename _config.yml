@@ -3,11 +3,11 @@ title: Kerwin Xiang Liao | 廖翔
 subtitle: A Fastidious Maverick in Business Research
 welcome_message: '"Amid countless possibilities, find the path to the hope and make decisions with your own willpower."'
 description: Hi, I am currently a fourth-year doctoral student in International Business at University of South Carolina.
-creator: <a href="http://www.GcsSloop.com">@kliao</a>
+creator: <a href="http://kerwinliao.github.io">Kerwin Liao</a>
 
 url: "http://kerwinliao.github.io/"
 
-permalink: /:categories/:title
+permalink: "http://kerwinliao.github.io/"
 
 # Format
 highlighter: rouge
