@@ -36,6 +36,7 @@ One of my advisors commented: "This is so atypical, even a bit weird. Why do you
 
 Well, the answer is that I am unique, even weird in many aspects, and if I am following others' steps, how can I break the mold and differentiate from other people?
 
+![po_ingre](\assets\images\po_ingredient.jpg)
 
 ---
 
