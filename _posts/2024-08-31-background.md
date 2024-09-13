@@ -31,14 +31,11 @@ MBTI test tells me that I am an ISTJ/INFJ person. While I totally agree with **I
 - a loner who enjoy talking to strangers
 
 ---
-
 One of my advisors commented: "This is so atypical, even a bit weird. Why do you decide to do it this way?"
 
 Well, the answer is that I am unique, even weird in many aspects, and if I am following others' steps, how can I break the mold and differentiate from other people?
 
 ![po_ingre](\assets\images\po_ingredient.jpg)
-
----
 
 
 
