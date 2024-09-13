@@ -2,13 +2,18 @@
 layout: post
 category: Info
 title: Background
-tags: GcsSloop, info
-keywords: GcsSloop, gcssloop
-excerpt: 我是 GcsSloop， 一名生活在2.5次元的魔法师，平时研究一下魔法，做一些魔法卷轴，也会把一些研究成果贡献出来，以帮助新入门的魔法师更快速的成长为高级魔法师。点击此处查看我公布的魔法研究成果。
+tags: Background
+keywords: 
+excerpt: 
 redirect_from:
-  - /1970/01/about/
+  - 
 ---
 
-Hey, this Capricorn is working very hard right now. 
+**Welcome to Abnormal Human Research Institute!**
 
-Would you mind getting back to the [homepage](https://kerwinliao.github.io) and come back later when you are available?
+![title](\assets\images\abnormal_man.png)
+
+---
+
+
+
