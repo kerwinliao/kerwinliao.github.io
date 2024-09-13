@@ -1,15 +1,13 @@
 ---
 layout: post
 category: Info
-title: Background
+title: **Welcome to Abnormal Human Research Institute!**
 tags: Background
 keywords: 
 excerpt: 
 redirect_from:
   - 
 ---
-
-**Welcome to Abnormal Human Research Institute!**
 
 ![title](\assets\images\abnormal_man.png)
 
