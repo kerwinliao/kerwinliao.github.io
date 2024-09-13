@@ -27,7 +27,7 @@ MBTI test tells me that I am an ISTJ/INFJ person. While I totally agree with **I
 	- Look like stuck on the road sometimes, but I would interpret that situation as the moment when cougars are looking for targets and waiting for the best time to take action
 	- When the opportunity comes, act promptly without letting the target go.
 - conservative and iconoclast 
-- serious and facetious
+- serious and facetious (you can tell this from my website :) )
 - a loner who enjoy talking to strangers
 
 
