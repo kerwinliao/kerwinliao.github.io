@@ -21,7 +21,7 @@ MBTI test tells me that I am an ISTJ/INFJ person. While I totally agree with **I
 
 - a risk-averse person who enjoys taking risks
 - an obtuse but bright person
-	- My way of thinking is more aligned with "sensing", which means that I need to spend quite a lot of time to **sense** the environment to have a broad picture. This process is long and makes me look obtuse...
+	- My way of thinking is more aligned with "sensing" rather than *"intuition"*, which means that I need to spend quite a lot of time to **sense** the environment to have a broad picture. This process is long and makes me look obtuse...
 	- When everything becomes familiar, then I will be the **King** of this environment.
 - deliberate in counsel, prompt in action
 	- Look like stuck on the road sometimes, but I would interpret that situation as the moment when cougars are looking for targets and waiting for the best time to take action
