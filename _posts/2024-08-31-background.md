@@ -31,6 +31,7 @@ MBTI test tells me that I am an ISTJ/INFJ person. While I totally agree with **I
 - a loner who enjoy talking to strangers
 
 ![MBTI](\assets\images\mbti.png)
+![MBTI](\assets\images\mbti-gif.gif)
 
 ---
 One of my advisors commented: "This is so atypical, even a bit weird. Why do you decide to do it this way?"
