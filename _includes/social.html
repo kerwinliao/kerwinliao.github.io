@@ -80,6 +80,16 @@
     </a>
   </li>
   {% endif %}
+  
+  {% if site.social.gmail %}
+  <!-- Email -->
+  <li class="navigation__item">
+    <a href="mailto:{{site.social.gmail}}" title="Send Email to Me">
+      <i class='social fa fa-gmail'></i>
+      <span class="label">Gmail</span>
+    </a>
+  </li>
+  {% endif %}
 
   {% if site.social.copyright %}
   <!-- Copyright -->
