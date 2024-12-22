@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Info
-title: Teaching
+title: Pilot Study on Commercial Music Industry
 tags: Teaching
 keywords: Kerwin
 excerpt: 
