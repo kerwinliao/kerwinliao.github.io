@@ -30,6 +30,8 @@ MBTI test tells me that I am an ISTJ/INTJ person. While I totally agree with **I
 - serious and facetious (you can tell this from my website :) )
 - a loner who enjoy talking to strangers
 
+Want to know more about INTJ? [Click me](\info\intj)
+
 ![MBTI](\assets\images\mbti.png)
 
 
