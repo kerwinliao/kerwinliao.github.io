@@ -9,6 +9,35 @@ redirect_from:
   - 
 ---
 
+Many thanks to the help from undergraduate students at my class in Introduction to International Business in Fall 2024, I got the chance to do the two waves of pilot studies in commercial music industry.
+
+
+**#1 - First Round - Open Question Surveys**
+
+I created survey forms using Google Form, making their answers totally anonymous.
+
+There are only two short questions:
+	1. Favorite music (a link to YouTube will be appreciated)
+	2. Favorite movie/TV series
+
+I received 16 answers out of 21 students. Honestly speaking, their answers are quite interesting, and even out of my expectation. They are pretty diverse and these students mentioned a lot of genres and types that I had never heard of. I was so excited to know that this area is so colorful, but I did have to cram a lot for being ready to delve into this field.
+
+
+
+**#2 - Second Round - Listen to 26 30-seconds clips and fill the form in class**
+
+There are 4 questions for each clip. At the start of the survey, I showed them the privacy statement, ensuring their answers would never be disseminated to others at the individual level. Their answers may be shown to others only at the aggregation form.
+	1.  Do you like this clip? (Likert question: 1 - Does not like at all, 7 - Very Much)
+	2.  Have you ever heard of this song before? (Y/N)
+	3.  Compared with last clip, to what extent do you like this one? (Likert question: 1 - Does not like at all, 7 - Very Much)
+	4.  Any quick comments/thoughts about this clip?
+
+Preliminary results resonate with my initial hypothesis: **language and ethnicity will be a barrier to the success of the music, but enough innovation/uniqueness can conquer this disadvantage**.
+
+I am still working on their answers and more results will be available some time later (but I cannot guarantee when :) ).
+
+Below are those 26 30-seconds clips used in the class. After each clip, they have 30 seconds to fill the survey form.
+
 Clip # | Name | Singer | Music/MV | Language | Link | Start | End
 --- | --- | --- | --- | --- | --- | --- | --- 
 1 | Close to You | Carpenters | No | English | https://www.youtube.com/watch?v=iFx-5PGLgb4 | 0:00 | 0:31

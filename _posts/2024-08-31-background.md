@@ -17,7 +17,7 @@ redirect_from:
 
 Many people live in unconsciousness throughout their whole lives. Though the proverb says that “ignorance is bliss”, I am more interested in who I am, why I am thinking or acting in this way, but not that way. When myself becomes a study object of me, everything becomes interesting.
 
-MBTI test tells me that I am an ISTJ/INTJ person. While I totally agree with **I** and **T**, the other two dimensions are quite balanced in the final scores. Recalling the past years of my life, I find myself a weird paradox in many aspects, if not all. I do appreciate those who did not speak “weirdo” in front of me to avoid hurting my dignity…
+MBTI test tells me that I am an INTJ/INTP/ISTJ/INFJ person. (It is not very stable anyway. I tested 3 times before I got this result. And the reason why I tested 3 times was because the descriptions were not consistent with my feeling about myself.) While I totally agree with **I** and **T**, the other two dimensions are quite balanced in the final scores. Recalling the past years of my life, I find myself a weird paradox in many aspects, if not all. I do appreciate those who did not speak “weirdo” in front of me to avoid hurting my dignity…
 
 - a risk-averse person who enjoys taking risks
 - an obtuse but bright person
