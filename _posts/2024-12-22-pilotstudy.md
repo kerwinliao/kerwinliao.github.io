@@ -17,6 +17,7 @@ Many thanks to the help from undergraduate students at my class in Introduction 
 I created survey forms using Google Form, making their answers totally anonymous.
 
 There are only two short questions:
+
 	1. Favorite music (a link to YouTube will be appreciated)
 	2. Favorite movie/TV series
 
@@ -27,6 +28,7 @@ I received 16 answers out of 21 students. Honestly speaking, their answers are q
 **#2 - Second Round - Listen to 26 30-seconds clips and fill the form in class**
 
 There are 4 questions for each clip. At the start of the survey, I showed them the privacy statement, ensuring their answers would never be disseminated to others at the individual level. Their answers may be shown to others only at the aggregation form.
+
 	1.  Do you like this clip? (Likert question: 1 - Does not like at all, 7 - Very Much)
 	2.  Have you ever heard of this song before? (Y/N)
 	3.  Compared with last clip, to what extent do you like this one? (Likert question: 1 - Does not like at all, 7 - Very Much)
