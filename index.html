@@ -1,38 +1,29 @@
----
-layout: default
----
-
-<div class="main-post-list hidden">
-
-  <ol class="post-list">
-    <!--置顶-->
-    {% for post in site.posts %}
-      {% if post.istop %}
-        {% if paginator.page == 1 %}
-        <li>
-          <h2 class="post-list__post-title post-title"><a href="{{ post.url }}" title="访问 {{ post.title }}">[置顶]{{ post.title }}</a></h2>
-          <p class="excerpt">{{ post.content | strip_html | strip_newlines | truncate: 260 }}&hellip;</p>
-          <div class="post-list__meta"><time datetime="{{post.date | date: date_to_xmlschema}}" class="post-list__meta--date date">{{ post.date | date: "%F"}}</time> &#8226; <span class="post-list__meta--tags tags">{{ post.category }}</span> <a class="btn-border-small" href={{ post.url }}>Continue Reading</a></div>
-          <hr class="post-list__divider" />
-        </li>
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-    <!--普通文档流-->
-    {% for post in paginator.posts %}
-    {% if post.hide %}
-    {% else %}
-      <li>
-        <h2 class="post-list__post-title post-title"><a href="{{ post.url }}" title="访问 {{ post.title }}">{{ post.title }}</a></h2>
-        <p class="excerpt">{{ post.content | strip_html | strip_newlines | truncate: 260 }}&hellip;</p>
-        <div class="post-list__meta"><time datetime="{{post.date | date: date_to_xmlschema}}" class="post-list__meta--date date">{{ post.date | date: "%F"}}</time> &#8226; <span class="post-list__meta--tags tags">{{ post.category }}</span> <a class="btn-border-small" href={{ post.url }}>Continue Reading</a></div>
-        <hr class="post-list__divider" />
-      </li>
-    {% endif %}
-    {% endfor %}
-  </ol>
-
-  {% include pagination.html %}
-
-</div>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Website Under Update</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 10%;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>Website under update</h1>
+  <p>This site is currently being revised.</p>
+  <p>For updated materials or inquiries, please contact me at<br>
+     <a href="mailto:xiang.liao@grad.moore.sc.edu">xiang.liao@grad.moore.sc.edu</a></p>
+</body>
+</html>
