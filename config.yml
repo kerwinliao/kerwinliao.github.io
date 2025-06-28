@@ -44,34 +44,9 @@ languages:
         - name: WiKi
           url: https://github.com/adityatelange/hugo-PaperMod/wiki/
 
-  fr:
-    languageName: ":fr:"
-    weight: 2
-    title: PaperModL2
-    taxonomies:
-      category: FRcategories
-      tag: FRtags
-      series: FRseries
-    menu:
-      main:
-        - name: Archive
-          url: archives/
-          weight: 5
-        - name: FRTags
-          url: frtags
-          weight: 10
-        - name: FRCategories
-          url: frcategories
-          weight: 10
-        - name: FRSeries
-          url: frseries
-          weight: 10
-        - name: NullLink
-          url: "#"
-
     # custom params for each language should be under [langcode].parms - hugo v0.120.0
     params:
-      languageAltTitle: French
+      languageAltTitle: English
       profileMode:
         enabled: true
         title: PaperMod
@@ -86,24 +61,6 @@ languages:
           - name: Profile Mode
             url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
 
-  fa:
-    languagedirection: rtl
-    weight: 3
-    title: PaperMod RTL
-    taxonomies:
-      category: FAcategories
-      tag: FAtags
-      series: FAseries
-    menu:
-      main:
-        - name: FATags
-          url: fatags
-          weight: 10
-    # custom params for each language should be under [langcode].parms - hugo v0.120.0
-    params:
-      homeInfoParams:
-        Title: "Hi there \U0001F44B"
-        Content: Welcome to RTL layout
 
 outputs:
   home:
