@@ -49,15 +49,15 @@ languages:
       languageAltTitle: English
       profileMode:
         enabled: true
-        title: PaperMod
+        title: Kerwin Xiang Liao | 廖 翔
         imageUrl: "images/avatar.jpg"
         imageTitle: ProfileMode image
         # imageWidth: 120
         # imageHeight: 120
-        subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+        subtitle: "I explore how systems shape decisions — from financial markets to organizations, and from data to meaning."
         buttons:
           - name: Resume
-            url: assets/KXL_resume.pdf
+            url: "assets/KXL_resume.pdf"
           - name: LinkedIn
             url: https://www.linkedin.com/in/kerwinlau/
 
