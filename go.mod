@@ -1,3 +1,3 @@
-module github.com/dillonzq/LoveIt
+module github.com/adityatelange/hugo-PaperMod
 
-go 1.18
+go 1.12
