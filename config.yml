@@ -32,8 +32,8 @@ languages:
       series: series
     menu:
       main:
-        - name: Archive
-          url: archives
+        - name: Resume
+          url: assets/KXL_resume.pdf
           weight: 5
         - name: Search
           url: search/
