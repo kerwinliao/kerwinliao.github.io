@@ -32,8 +32,8 @@ languages:
       series: series
     menu:
       main:
-        - name: Resume
-          url: assets/KXL_resume.pdf
+        - name: Résumé
+          url: /resume/Kerwin_Liao_Resume.pdf
           weight: 5
         - name: Search
           url: search/
@@ -56,8 +56,8 @@ languages:
         # imageHeight: 120
         subtitle: "I explore how systems shape decisions — from financial markets to organizations, and from data to meaning."
         buttons:
-          - name: Resume
-            url: "assets/KXL_resume.pdf"
+          - name: Résumé
+            url: "/resume/Kerwin_Liao_Resume.pdf"
           - name: LinkedIn
             url: https://www.linkedin.com/in/kerwinlau/
 
