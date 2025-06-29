@@ -32,7 +32,9 @@ languages:
       series: series
     menu:
       main:
-        
+        - name: 
+          url: 
+          weight: 5
 
     # custom params for each language should be under [langcode].parms - hugo v0.120.0
     params:
@@ -103,18 +105,18 @@ params:
       - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3).
 
   socialIcons:
-    - name: email
-      title: Send Email to Me
-      url: "mailto:xiang.liao@grad.moore.sc.edu"   
     - name: linkedin
       title: View Source on LinkedIn
       url: "https://www.linkedin.com/in/kerwinlau/"
+    - name: Discord
+      title: Join discord community
+      url: "https://discord.gg/ahpmTvhVmp"
     - name: github
-      title: View Source on GitHub
-      url: "https://github.com/kerwinliao"
-    - name: googlescholar
-      title: See My Pulications
-      url: "https://scholar.google.com/citations?user=Uo8GZckAAAAJ&hl=en"
+      title: Share PaperMod on X/Twitter
+      url: "https://x.com/intent/tweet/?text=Checkout%20Hugo%20PaperMod%20%E2%9C%A8%0AA%20fast,%20clean,%20responsive%20Hugo%20theme.&url=https://github.com/adityatelange/hugo-PaperMod&hashtags=Hugo,PaperMod"
+    - name: KoFi
+      title: Buy me a Ko-Fi :)
+      url: "https://ko-fi.com/adityatelange"
 
   editPost:
     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
