@@ -114,9 +114,15 @@ params:
     - name: github
       title: View Source on GitHub
       url: "https://github.com/kerwinliao"
+    - name: researchgate
+      title: View Research on ResearchGate
+      url: "https://www.researchgate.net/profile/Kerwin-Xiang-Liao"
     - name: googlescholar
       title: See My Pulications
       url: "https://scholar.google.com/citations?user=Uo8GZckAAAAJ&hl=en"
+
+
+
 
   editPost:
     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
