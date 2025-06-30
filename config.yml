@@ -48,8 +48,8 @@ languages:
         # imageHeight: 120
         subtitle: "I explore how systems shape decisions — from financial markets to organizations, and from data to meaning."
         buttons:
-          - name: 
-            url: 
+          - name: Résumé (PDF)
+            url: "/resume/Kerwin_Liao_Resume.pdf"
 
 
 outputs:
