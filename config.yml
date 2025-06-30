@@ -108,6 +108,9 @@ params:
     - name: email
       title: Send Email to Me
       url: "mailto:xiang.liao@grad.moore.sc.edu"   
+    - name: cv
+      title: View My Résumé
+      url: "/resume/Kerwin_Liao_Resume.pdf"   
     - name: linkedin
       title: View My Profile on LinkedIn
       url: "https://www.linkedin.com/in/kerwinlau/"
