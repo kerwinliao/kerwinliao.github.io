@@ -47,7 +47,9 @@ languages:
         # imageWidth: 120
         # imageHeight: 120
         subtitle: "I explore how systems shape decisions — from financial markets to organizations, and from data to meaning."
-
+        buttons:
+          - name: 
+            url: 
 
 
 outputs:
