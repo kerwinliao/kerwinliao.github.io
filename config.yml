@@ -114,9 +114,6 @@ params:
     - name: linkedin
       title: View My Profile on LinkedIn
       url: "https://www.linkedin.com/in/kerwinlau/"
-    - name: bilibili
-      title: Buy me a Lemon for making lemonade
-      url: "https://buymeacoffee.com/kerwinliao"  
     - name: googlescholar
       title: See My Pulications
       url: "https://scholar.google.com/citations?user=Uo8GZckAAAAJ&hl=en"
