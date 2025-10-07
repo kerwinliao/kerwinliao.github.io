@@ -105,6 +105,9 @@ params:
       - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3).
 
   socialIcons:
+    - name: github
+      title: Python Library projects
+      url: "https://github.com/kerwinliao/riskfolio"
     - name: email
       title: Send Email to Me
       url: "mailto:xiang.liao@grad.moore.sc.edu"   
