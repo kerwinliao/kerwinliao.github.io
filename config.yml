@@ -46,7 +46,7 @@ languages:
         imageTitle: ProfileMode image
         # imageWidth: 120
         # imageHeight: 120
-        subtitle: "I bring a systems-thinking approach to financial and organizational problems, using modeling, research, and analytical reasoning to make sense of uncertainty and support strategic decisions."
+        subtitle: "I use a systems-thinking and modeling-driven approach to analyze complex financial and organizational environments, transforming uncertainty into structured insights that support better decision-making."
         buttons:
           - name: Résumé (PDF)
             url: "/resume/Kerwin_Liao_Resume.pdf"
