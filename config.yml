@@ -47,7 +47,9 @@ languages:
         # imageWidth: 120
         # imageHeight: 120
         subtitle: "I use a systems-thinking and modeling-driven approach to analyze complex financial and organizational environments, transforming uncertainty into structured insights that support better decision-making."
-
+        buttons:
+          - name: Homepage
+            url: 
 
 
 outputs:
@@ -105,10 +107,7 @@ params:
       url: "https://medium.com/@kerwin.p.lau"
     - name: email
       title: Send Email to Me
-      url: "mailto:xiang.liao@grad.moore.sc.edu"   
-    - name: cv
-      title: View My Résumé
-      url: "/resume/Kerwin_Liao_Resume.pdf"   
+      url: "mailto:xiang.liao@grad.moore.sc.edu"     
     - name: linkedin
       title: View My Profile on LinkedIn
       url: "https://www.linkedin.com/in/kerwinlau/"
