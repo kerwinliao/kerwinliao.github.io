@@ -46,7 +46,7 @@ languages:
         imageTitle: ProfileMode image
         # imageWidth: 120
         # imageHeight: 120
-        subtitle: "🧠 Systems Thinking | 📊 Model-Driven | 🕸️ Organizations · Finance · Institutions | ✨ Meaning-Making"
+        subtitle: "🧠 Systems Thinking | 🕸️ Organizations · Finance · Institutions | ✨ Meaning-Making"
         buttons:
           - name: Homepage
             url: 
