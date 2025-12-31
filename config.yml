@@ -46,7 +46,7 @@ languages:
         imageTitle: ProfileMode image
         # imageWidth: 120
         # imageHeight: 120
-        subtitle: "🧠 Systems Thinking | 🧩 Modeling | 🕸️ Organizations · Finance · Institutions | ✨ Insights"
+        subtitle: "🌊 Complexity | 🧠 Patterns | 📐 Modeling | 🌍 Institutions | 🛠️ Meaning"
         buttons:
           - name: Homepage
             url: 
