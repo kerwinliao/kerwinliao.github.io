@@ -41,7 +41,7 @@ languages:
       languageAltTitle: English
       profileMode:
         enabled: true
-        title: Kerwin Xiang Liao | 廖 翔
+        title: Kerwin Xiang Liao 
         imageUrl: "images/avatar.png"
         imageTitle: ProfileMode image
         # imageWidth: 120
