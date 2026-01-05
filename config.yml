@@ -94,7 +94,7 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "Kerwin's Homepage"
+    Title: "Kerwin's"
     Content: >
       👋 Welcome to Kerwin's Homepage!
 
