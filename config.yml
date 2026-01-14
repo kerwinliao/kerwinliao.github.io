@@ -105,9 +105,9 @@ params:
     - name: medium
       title: View my blogs
       url: "https://medium.com/@kerwin.p.lau"
-    - name: email
-      title: Send Email to Me
-      url: "mailto:xiang.liao@grad.moore.sc.edu"     
+    - name: buymeacoffee
+      title: Connect
+      url: "https://buymeacoffee.com/kerwinliao"     
     - name: linkedin
       title: View My Profile on LinkedIn
       url: "https://www.linkedin.com/in/kerwinlau/"
