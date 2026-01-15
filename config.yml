@@ -104,10 +104,7 @@ params:
       url: "https://github.com/kerwinliao/riskfolio"
     - name: medium
       title: View my blogs
-      url: "https://medium.com/@kerwin.p.lau"
-    - name: buymeacoffee
-      title: Connect
-      url: "https://buymeacoffee.com/kerwinliao"     
+      url: "https://medium.com/@kerwin.p.lau"    
     - name: linkedin
       title: View My Profile on LinkedIn
       url: "https://www.linkedin.com/in/kerwinlau/"
