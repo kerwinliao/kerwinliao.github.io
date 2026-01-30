@@ -99,9 +99,6 @@ params:
       👋 Welcome to Kerwin's Homepage!
 
   socialIcons:
-    - name: github
-      title: Python Library projects
-      url: "https://github.com/kerwinliao/riskfolio"
     - name: medium
       title: View my blogs
       url: "https://medium.com/@kerwin.p.lau"    
