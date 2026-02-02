@@ -101,7 +101,10 @@ params:
   socialIcons:
     - name: medium
       title: View my blogs
-      url: "https://medium.com/@kerwin.p.lau"    
+      url: "https://medium.com/@kerwin.p.lau"  
+    - name: buymeacoffee
+      title: Blogs
+      url: "https://buymeacoffee.com/kerwinliao" 
     - name: linkedin
       title: View My Profile on LinkedIn
       url: "https://www.linkedin.com/in/kerwinlau/"
