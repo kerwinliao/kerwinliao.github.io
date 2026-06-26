@@ -99,9 +99,9 @@ params:
       👋 Welcome to Kerwin's Homepage!
 
   socialIcons:
-    - name: medium
+    - name: Substack
       title: View my blogs
-      url: "https://medium.com/@kerwin.p.lau"  
+      url: "https://kerwinliao.substack.com/"  
     - name: buymeacoffee
       title: Blogs
       url: "https://buymeacoffee.com/kerwinliao" 
