@@ -1,9 +1,6 @@
 ---
 title: "KooK@Tea"
-
-Writing, manga, and music under the name KooK@Tea.
-
-Coming soon.
+placeholder: Writing, manga, and music under the name KooK@Tea.<br>Coming soon.
 ---
 
 
