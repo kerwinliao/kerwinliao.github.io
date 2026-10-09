@@ -51,7 +51,7 @@ languages:
           - name: Academic
             url: /academic/
           - name: KooK@Tea
-            url: /creative/
+            url: /kooktea/
 
 
 outputs:
