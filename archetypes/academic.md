@@ -1,7 +1,7 @@
 ---
-# Copy this file once per paper, rename it (e.g. short-paper-name.md),
-# fill in the fields, and delete the "draft: true" line to publish it.
-draft: true
+# Paper template. For each new paper, copy this file into content/academic/,
+# rename it (e.g. short-paper-name.md),
+# then fill in the fields below.
 title: "Full Paper Title"
 date: 2026-01-01   # used for ordering; only the year is shown
 authors: ["Kerwin Xiang Liao"]
