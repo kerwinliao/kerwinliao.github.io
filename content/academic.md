@@ -1,6 +1,6 @@
 ---
 title: "Academic"
-
-placeholder: Independent researcher working on institutions, recognition, and scarcity. <br> Representative papers coming soon.
+Independent researcher working on institutions, recognition, and scarcity.
+Representative papers coming soon.
 ---
 
