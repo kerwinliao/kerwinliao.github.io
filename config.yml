@@ -46,7 +46,7 @@ languages:
         imageTitle: ProfileMode image
         # imageWidth: 120
         # imageHeight: 120
-        subtitle: "🌊 Complexity | 🧠 Patterns | 📐 Modeling | 🌍 Institutions | 🛠️ Meaning<br>Independent researcher working on institutions, recognition, and the scarcity they create."
+        subtitle: "🌊 Complexity | 🧠 Patterns | 📐 Modeling | 🌍 Institutions | 🛠️ Meaning<br>Independent researcher studying how institutions shape cognition and emotion."
         buttons:
           - name: Academic
             url: /academic/
