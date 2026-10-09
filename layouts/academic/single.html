@@ -7,23 +7,30 @@
     <div class="post-meta">
       {{- partial "paper_meta.html" . -}}
     </div>
+    {{- with .Params.links }}
+    <div class="buttons" style="justify-content: flex-start; max-width: none; margin: 12px 0 0 -8px;">
+      {{- range . }}
+      <a class="button" href="{{ .url | safeURL }}" target="_blank" rel="noopener">
+        <span class="button-inner">{{ .name }}</span>
+      </a>
+      {{- end }}
+    </div>
+    {{- end }}
   </header>
 
-  {{- if .Content }}
   <div class="post-content">
+    {{- if .Content }}
+    <h2>Abstract</h2>
     {{ .Content }}
+    {{- end }}
+    {{- with .Params.keywords }}
+    <p><strong>Keywords:</strong> {{ delimit . " · " }}</p>
+    {{- end }}
+    {{- with .Params.citation }}
+    <h2>Cite</h2>
+    <p>{{ . | markdownify }}</p>
+    {{- end }}
   </div>
-  {{- end }}
-
-  {{- with .Params.links }}
-  <footer class="post-footer">
-    <ul class="post-tags">
-      {{- range . }}
-      <li><a href="{{ .url | safeURL }}" target="_blank" rel="noopener">{{ .name }}</a></li>
-      {{- end }}
-    </ul>
-  </footer>
-  {{- end }}
 </article>
 
 {{- end }}

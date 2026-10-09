@@ -29,7 +29,8 @@
   <header class="entry-header">
     <h2 class="entry-hint-parent">{{ .Title }}</h2>
   </header>
-  <div class="entry-content">
+  {{- /* show the full 2-3 sentence blurb instead of the theme's 2-line cut-off */}}
+  <div class="entry-content" style="-webkit-line-clamp: unset;">
     <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
   </div>
   <footer class="entry-footer">

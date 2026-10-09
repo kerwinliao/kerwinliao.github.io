@@ -1,14 +1,20 @@
 ---
-# Copy this file once per paper, rename it (e.g. my-paper-short-name.md),
+# Copy this file once per paper, rename it (e.g. short-paper-name.md),
 # fill in the fields, and delete the "draft: true" line to publish it.
 draft: true
 title: "Full Paper Title"
-date: 2025-01-01            # publication date; only the year is shown
-authors: ["Kerwin Xiang Liao", "Coauthor Name"]
+date: 2026-01-01   # used for ordering; only the year is shown
+authors: ["Kerwin Xiang Liao"]
 venue: "Journal Name"
+# Short blurb shown on the card in the list (2-3 sentences)
+summary: "Two or three plain sentences about the paper."
+keywords: ["keyword one", "keyword two"]
+citation: "Liao, K. X. (2026). Paper title in sentence case. *Journal Name*. https://doi.org/10.xxxx/xxxxx"
 links:
-  - name: DOI
+  - name: "DOI"
     url: "https://doi.org/10.xxxx/xxxxx"
+  - name: "Free Access"
+    url: "https://..."
 ---
 
-Paste the abstract here. The first ~70 words appear on the card in the list; the full text appears on the paper's own page.
+Paste the full abstract here. It appears on the paper's own page under "Abstract".
