@@ -46,10 +46,12 @@ languages:
         imageTitle: ProfileMode image
         # imageWidth: 120
         # imageHeight: 120
-        subtitle: "🌊 Complexity | 🧠 Patterns | 📐 Modeling | 🌍 Institutions | 🛠️ Meaning"
+        subtitle: "🌊 Complexity | 🧠 Patterns | 📐 Modeling | 🌍 Institutions | 🛠️ Meaning<br>Independent researcher working on institutions, recognition, and the scarcity they create."
         buttons:
-          - name: Homepage
-            url: 
+          - name: Academic
+            url: /academic/
+          - name: KooK@Tea
+            url: /creative/
 
 
 outputs:
