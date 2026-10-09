@@ -1,0 +1,42 @@
+{{- define "main" }}
+
+{{- /* Intro card: same look as PaperMod's home-info block */}}
+<article class="first-entry home-info">
+  <header class="entry-header">
+    <h1>{{ .Title }}</h1>
+  </header>
+  {{- with .Content }}
+  <div class="entry-content">
+    {{ . }}
+  </div>
+  {{- end }}
+  {{- with .Params.links }}
+  <footer class="entry-footer">
+    <div class="social-icons">
+      {{- range . }}
+      <a href="{{ trim .url " " | safeURL }}" target="_blank" rel="noopener noreferrer me" title="{{ .title | default .name }}">
+        {{ partial "svg.html" . }}
+      </a>
+      {{- end }}
+    </div>
+  </footer>
+  {{- end }}
+</article>
+
+{{- /* One card per paper, newest first */}}
+{{- range .RegularPages.ByDate.Reverse }}
+<article class="post-entry">
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">{{ .Title }}</h2>
+  </header>
+  <div class="entry-content">
+    <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+  </div>
+  <footer class="entry-footer">
+    {{- partial "paper_meta.html" . -}}
+  </footer>
+  <a class="entry-link" aria-label="link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+</article>
+{{- end }}
+
+{{- end }}

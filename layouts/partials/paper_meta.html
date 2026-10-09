@@ -1,0 +1,7 @@
+{{- /* One line of paper metadata: authors · venue · year · status */ -}}
+{{- $parts := slice }}
+{{- with .Params.authors }}{{ $parts = $parts | append (delimit . ", ") }}{{ end }}
+{{- with .Params.venue }}{{ $parts = $parts | append (printf "<em>%s</em>" .) }}{{ end }}
+{{- if not .Date.IsZero }}{{ $parts = $parts | append (.Date.Format "2006") }}{{ end }}
+{{- with .Params.status }}{{ $parts = $parts | append . }}{{ end }}
+{{- delimit $parts "&nbsp;·&nbsp;" | safeHTML -}}

@@ -1,0 +1,29 @@
+{{- define "main" }}
+
+<article class="post-single">
+  <header class="post-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="post-title">{{ .Title }}</h1>
+    <div class="post-meta">
+      {{- partial "paper_meta.html" . -}}
+    </div>
+  </header>
+
+  {{- if .Content }}
+  <div class="post-content">
+    {{ .Content }}
+  </div>
+  {{- end }}
+
+  {{- with .Params.links }}
+  <footer class="post-footer">
+    <ul class="post-tags">
+      {{- range . }}
+      <li><a href="{{ .url | safeURL }}" target="_blank" rel="noopener">{{ .name }}</a></li>
+      {{- end }}
+    </ul>
+  </footer>
+  {{- end }}
+</article>
+
+{{- end }}
