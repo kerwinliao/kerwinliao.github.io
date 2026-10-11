@@ -1,8 +1,8 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-baseURL: "https://adityatelange.github.io/hugo-PaperMod/"
+baseURL: "https://kerwinliao.github.io/"
 title: Kerwin Liao's Home Page
-copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
+copyright: "© Kerwin Xiang Liao"
 theme: [hugo-PaperMod]
 
 enableInlineShortcodes: true
@@ -31,10 +31,7 @@ languages:
       tag: tags
       series: series
     menu:
-      main:
-        - name: 
-          url: 
-          weight: 5
+      main: []
 
     # custom params for each language should be under [langcode].parms - hugo v0.120.0
     params:
@@ -62,9 +59,8 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-  author: Theme PaperMod
-  # author: ["Me", "You"] # multiple authors
+  description: "Kerwin Xiang Liao is an independent researcher studying how institutions shape cognition and emotion."
+  author: Kerwin Xiang Liao
 
   defaultTheme: auto
   # disableThemeToggle: true
@@ -80,32 +76,14 @@ params:
   ShowPageNums: true
   ShowToc: true
   # comments: false
-  images: ["images/papermod-cover.png"]
-
-  profileMode:
-    enabled: false
-    title: PaperMod
-    imageUrl: "#"
-    imageTitle: my image
-    # imageWidth: 120
-    # imageHeight: 120
-    buttons:
-      - name: Archives
-        url: archives
-      - name: Tags
-        url: tags
-
-  homeInfoParams:
-    Title: "Kerwin's"
-    Content: >
-      👋 Welcome to Kerwin's Homepage!
+  images: ["images/share-avatar.png"] # preview image when the site is shared on social media (file in static/images/)
 
   socialIcons:
     - name: Substack
       title: View my blogs
       url: "https://kerwinliao.substack.com/"  
     - name: buymeacoffee
-      title: Blogs
+      title: Buy Me a Coffee
       url: "https://buymeacoffee.com/kerwinliao" 
     - name: youtube
       title: YouTube
@@ -117,14 +95,9 @@ params:
       title: View My Profile on LinkedIn
       url: "https://www.linkedin.com/in/kerwinlau/"
     - name: googlescholar
-      title: See My Pulications
+      title: See My Publications
       url: "https://scholar.google.com/citations?user=Uo8GZckAAAAJ&hl=en"
 
-
-  editPost:
-    URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 
   # label:
   # iconSVG: '<svg xmlns="http://www.w3.org/2000/svg" height="25" viewBox="0 -960 960 960" fill="currentColor"><path d="M320-240h320v-80H320v80Zm0-160h320v-80H320v80ZM240-80q-33 0-56.5-23.5T160-160v-640q0-33 23.5-56.5T240-880h320l240 240v480q0 33-23.5 56.5T720-80H240Zm280-520v-200H240v640h480v-440H520ZM240-800v200-200 640-640Z"/></svg>'
