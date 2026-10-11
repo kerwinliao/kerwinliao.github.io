@@ -107,6 +107,12 @@ params:
     - name: buymeacoffee
       title: Blogs
       url: "https://buymeacoffee.com/kerwinliao" 
+    - name: youtube
+      title: YouTube
+      url: "https://www.youtube.com/channel/UCOLoU-qEA63oB0ZqPDyt3KQ" 
+    - name: bilibili
+      title: 碗瞄茶
+      url: "https://space.bilibili.com/227308776?spm_id_from=333.1007.0.0" 
     - name: linkedin
       title: View My Profile on LinkedIn
       url: "https://www.linkedin.com/in/kerwinlau/"
