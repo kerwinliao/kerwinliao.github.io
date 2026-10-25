@@ -92,6 +92,9 @@ params:
     - name: bilibili
       title: 碗瞄茶
       url: "https://space.bilibili.com/227308776" 
+    - name: instagram
+      title: Instagram
+      url: "https://www.instagram.com/kookatea"
     - name: linkedin
       title: View My Profile on LinkedIn
       url: "https://www.linkedin.com/in/kerwinlau/"
