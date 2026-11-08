@@ -41,7 +41,7 @@ languages:
         enabled: true
         title: Kerwin Xiang Liao 
         imageUrl: "images/avatar.png"
-        imageTitle: ProfileMode image
+        imageTitle: Kerwin Xiang Liao
         # imageWidth: 120
         # imageHeight: 120
         subtitle: "🌊 Complexity | 🧠 Patterns | 📐 Modeling | 🌍 Institutions | 🛠️ Meaning<br>Independent researcher studying how institutions shape cognition and emotion."
@@ -86,6 +86,9 @@ params:
     - name: buymeacoffee
       title: Buy Me a Coffee
       url: "https://buymeacoffee.com/kerwinliao" 
+    - name: zhihu
+      title: 廖襄恺 · 中文随笔
+      url: "https://www.zhihu.com/people/q2ep9"
     - name: youtube
       title: YouTube
       url: "https://www.youtube.com/channel/UCOLoU-qEA63oB0ZqPDyt3KQ" 
